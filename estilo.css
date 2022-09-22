@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+
+.nome{
+  margin-bottom: 20px;
+  margin-top: 50px;
+}
+
+.segundo{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    size: 10px;
+}
+.terceiro{
+    margin-bottom: 20px;
+
+}
+
+body{
+    background-color: rgb(176, 184, 176);
+  opacity: 10;
+}
+
+.quarto{
+
+    margin-bottom: 20px;
+}
